@@ -1,6 +1,6 @@
-# AI Projects
+# Radnom AI Projects
 
-Welcome to my **AI Projects** repository.
+Welcome to my **Random AI Projects** repository.
 
 This is a collection of projects I've developed as part of my journey in the field of Artificial Intelligence. It includes hands-on implementations of various AI concepts, models, and applications.
 
