@@ -6,7 +6,7 @@ This is a collection of projects I've developed as part of my journey in the fie
 
 ---
 
-## 🚀 What to Expect
+## What to Expect
 
 This repository will include projects in areas such as:
 
@@ -22,20 +22,10 @@ Each project will include a detailed explanation, code, and usage instructions.
 
 ---
 
-## 📂 Structure
+## Structure
 
 Each project will live in its own folder, typically containing:
 
 - `README.md` — overview and documentation  
 - `notebooks/` or `src/` — code files  
 - Example results or outputs (images, logs, etc.)
-
----
-
-## 🔧 Getting Started
-
-Clone the repo:
-
-```bash
-git clone https://github.com/your-username/ai-projects.git
-cd ai-projects
